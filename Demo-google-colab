@@ -1,0 +1,27 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyN12ewvNTcHJC7UGYD+OEq/"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "oLm5ZSTm9_H5"
+      },
+      "source": [
+        "# **Démo Google Colab**"
+      ]
+    }
+  ]
+}
